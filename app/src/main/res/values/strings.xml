@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">CArModule</string>
+    <string name="start">START</string>
+    <string name="lock">LOCK</string>
+    <string name="window">WINDOW</string>
+    <string name="a_c">A/C</string>
+    <string name="lights">LIGHTS</string>
+    <string name="todo">TODO</string>
+    <string name="user_guide">I agree to the end user licence agreement and data protection\nprovisions.</string>
+    <string name="read_tnc">Read TnC*</string>
+    <string name="iturktech">ITurkTech</string>
+    <string name="sacnqrcode">Please Scan the QR Code</string>
+    <string name="accept_and_continue">ACCEPT AND CONTINUE</string>
+    <string name="please_select_the_language">--PLEASE SELECT THE LANGUAGE--</string>
+    <string name="scan_id">SCAN ID</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="user_s_id">User\'s Id</string>
+    <string name="horn">Horn</string>
+    <string name="ac">A/C</string>
+    <string name="sos">SoS</string>
+    <string name="doors">Doors</string>
+    <string name="terms">Terms of Use</string>
+    <string name="condition">Terms and condition</string>
+    <string name="agree">I Agree</string>
+    <string name="readfirst">Please accept Terms and Condition</string>
+
+    <string-array name="carss">
+        <item>Alfa Romeo</item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Chevrolet</item>
+        <item>Citroen</item>
+        <item>Ferrari</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Infiniti</item>
+        <item>Jaguar</item>
+        <item>JEEP</item>
+        <item>KIA</item>
+        <item>Lancia</item>
+        <item>Land Rover</item>
+        <item>Lexus</item>
+        <item>MINI</item>
+        <item>Mazda</item>
+        <item>Mercedes</item>
+        <item>Mitsubishi</item>
+        <item>MG</item>
+        <item>Nissan</item>
+        <item>Opel</item>
+        <item>Peugeot</item>
+        <item>Porsche</item>
+        <item>Renault</item>
+        <item>Seat</item>
+        <item>Skoda</item>
+        <item>Subaru</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+</resources>

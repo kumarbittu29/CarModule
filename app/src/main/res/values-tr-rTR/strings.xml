@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CArModule</string>
+    <string name="start">BAŞLA</string>
+    <string name="lock">KİLİT</string>
+    <string name="window">PENCERE</string>
+    <string name="a_c">Klima</string>
+    <string name="lights">IŞIKLAR</string>
+    <string name="todo">TODO</string>
+    <string name="user_guide">Son kullanıcı lisans sözleşmesi ve veri koruma hükümlerini kabul \nediyorum.</string>
+    <string name="read_tnc">okumak SvK</string>
+    <string name="iturktech">ITurkTech</string>
+    <string name="sacnqrcode">Lütfen QR kodunu tarayın</string>
+    <string name="accept_and_continue">KABUL VE DEVAM</string>
+    <string name="scan_id">TARAMA KİMLİĞİ</string>
+    <string name="sign_in">OTURUM AÇ</string>
+    <string name="password">Parola</string>
+    <string name="user_s_id">Kullanıcı kimliği</string>
+    <string name="horn">Boynuz</string>
+    <string name="ac">Klima</string>
+    <string name="sos">SoS</string>
+    <string name="doors">Kapılar</string>
+    <string name="terms">Kullanım Şartları</string>
+    <string name="condition">Şartlar ve koşullar</string>
+    <string name="agree">Katılıyorum</string>
+    <string name="readfirst">Lütfen Şartlar ve Koşulları kabul edin</string>
+</resources>
